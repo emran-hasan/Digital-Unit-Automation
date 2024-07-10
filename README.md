@@ -8,6 +8,9 @@ In this project, I have automated Selenium Junit WebDriver project the web form 
 - To run the tests, you will need IntelliJ IDEA software installed on your machine.
 ## How can Run this Test
 - ``Clone this repository to your local machine. <repourl>``
+- Open with Intellij.
+- If IntelliJ IDEA doesn't automatically detect the project structure, you may need to manually open the project.
+- Open ``  build.gradle `` folder, all folder file are creaed.
 ### For test report:
 - For test report Must Installed `` gradle `` in your machine from gradle `` releases pages ``
 - Setup environment variable
