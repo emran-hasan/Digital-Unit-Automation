@@ -12,9 +12,9 @@ In this project, I have automated Selenium Junit WebDriver project the web form 
 - If IntelliJ IDEA doesn't automatically detect the project structure, you may need to manually open the project.
 - Open ``  build.gradle `` folder, all folder file are created automatically.
 ### For Test Report:
-- For test report Must Installed `` gradle `` in your machine from gradle `` releases pages ``
+- For test report Must Installed `` gradle `` in your machine from  `` gradle releases pages ``
 - Setup environment variable
--  Enter this command at the ``cmd prompt'' in the ``gradle clean test'' file location.
+-  Enter this command at the ``cmd prompt `` in the ``gradle clean test `` file location.
   
 ### Test Report Screentshot:
 
