@@ -18,7 +18,8 @@ In this project, I have automated Selenium Junit WebDriver project the web form 
   
 ### Test Report Screentshot:
 
-![JUnit-1st-ass](https://github.com/emran-hasan/Digital-Unit-Automation/assets/35032467/b87439fb-6cb4-4c52-b4df-0da7db3518a3)
+![Lat-final-Junit-1](https://github.com/emran-hasan/Digital-Unit-Automation/assets/35032467/bfd08d08-581e-4574-aacf-816228b375ac)
+
 
 ## Contribution:
 Contributions are welcome! Please feel free to submit any feature requests.
