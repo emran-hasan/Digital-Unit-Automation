@@ -1,7 +1,7 @@
 # Digital-Unite-Automation-JUnit
 ## Project Summary:
-In this project, I have automated Junit WebDriver project automates the web form submission on 
-Digital Unite Practice Webform. The test uploads a file with a 2MB limit, submits the form, and asserts the success message.
+In this project, I have automated Selenium Junit WebDriver project the web form submission on 
+[Digital Unite Practice Webform.] In this test uploads a file with a 2MB limit , submits the form. When submit the form , asserts the success message.
 
 ## Prerequisites:
 - Java
