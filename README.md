@@ -14,7 +14,7 @@ In this project, I have automated Selenium Junit WebDriver project the web form 
 ### For Test Report:
 - For test report Must Installed `` gradle `` in your machine from gradle `` releases pages ``
 - Setup environment variable
--  `` ./gradlew clean test ``
+-  Enter this command at the ``cmd prompt'' in the ``gradle clean test'' file location.
   
 ### Test Report Screentshot:
 
